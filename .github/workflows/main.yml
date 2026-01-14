@@ -1,4 +1,4 @@
-name: Run Postman Tests
+name: Postman Collection Workflow
 
 on:
   push:
@@ -36,7 +36,7 @@ jobs:
             -d testdata.csv \
             -r cli,htmlextra
 
-      - name: Upload Newman HTML Report
+      - name: Newman HTML Report
         uses: actions/upload-artifact@v4
         with:
           name: Newman-HTML-Report
