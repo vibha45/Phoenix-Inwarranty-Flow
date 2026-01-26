@@ -5,8 +5,11 @@ Github Actions will trigger the project execution on every push to the main bran
 
 The Html report is achieved and kept in the artifect section for the team to download it. along with that they can view the report dierectly fro the github page: https://vibha45.github.io/Phoenix-Inwarranty-Flow/.
 The latest report is mailed to the team members using GMAIL SMTP.
+
 ## About Me ##
-Hi My Name is Vibha Gupta. I have 4 years experience in Automation testing. My Skillset includes UI Automation with selenium WebDriver and for API Testing using Rest Assured and Postman.
+Hi My Name is Vibha Gupta. I have 8 years experience in Software testing. My Skillset includes Functional testing, UI Automation with selenium WebDriver and for API Testing using Rest Assured and Postman.
+Yo can connect with me over: (https://www.linkedin.com/in/vibha-g-8485a7134/)
+
 ## Testing Coverage ##
 1. Happy Flow Testing
 2. Negative Testing and Edge Case Testing
